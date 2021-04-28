@@ -1,0 +1,16 @@
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.xml
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.alta.resources
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.inicio.resources
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.vbproj.GenerateResource.Cache
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.exe
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.xml
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.pdb
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.altaalumno.resources
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.altalibro.resources
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.baja.resources
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.modificacion.resources
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\Biblioteca.vbprojResolveAssemblyReference.cache
+C:\Users\fotos\documents\visual studio 2010\Projects\Biblioteca\Biblioteca\obj\x86\Debug\WindowsApplication1.consulta.resources
